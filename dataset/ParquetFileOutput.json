@@ -25,7 +25,8 @@
 				"folderPath": {
 					"value": "@dataset().FolderName",
 					"type": "Expression"
-				}
+				},
+				"fileSystem": "bronze"
 			},
 			"compressionCodec": "snappy"
 		},
